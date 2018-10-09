@@ -1,5 +1,5 @@
 
-puimport discord
+import discord
 import asyncio
 import time
 import logging
